@@ -1,5 +1,5 @@
 # Welcome to Huthefa Alfararjeh's GitHub Profile 👋
-# <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=F75C7E&background=FFFFFF00&width=435&lines=Mohamed+Ramadan;Senior+iOS+Engineer;SwiftUI+Expert" alt="Typing SVG"></a>
+# <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=F75C7E&background=FFFFFF00&width=435&lines=Huthefa+Alfararjeh;Senior+Mobile+Engineer;SwiftUI+Expert" alt="Typing SVG"></a>
 
 Hi there! I'm **Huthefa Alfararjeh**, a passionate iOS developer with over 6 years of experience. I enjoy building amazing apps and sharing my knowledge with the developer community. 🚀
 
