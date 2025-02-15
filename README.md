@@ -18,4 +18,4 @@ Hi there! I'm **Huthefa Alfararjeh**, a passionate iOS developer with over 6 yea
 ![Mohamed Ramadan's GitHub Stats](https://github-readme-stats.vercel.app/api?abu-hasan98=ibnramadan&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammed-ramdan/](https://www.linkedin.com/in/hfararjeh/)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hfararjeh/)
