@@ -15,7 +15,7 @@ Hi there! I'm **Huthefa Alfararjeh**, a passionate iOS developer with over 6 yea
 - **Tools:** Xcode, Git, Fastlane, XCTest
 
 ## 📊 GitHub Stats
-![Mohamed Ramadan's GitHub Stats](https://github-readme-stats.vercel.app/api?abu-hasan98=ibnramadan&show_icons=true&theme=radical)
+![Huthefa's GitHub Stats](https://github-readme-stats.vercel.app/api?abu-hasan98=abu-hasan98&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hfararjeh/)
